@@ -1,4 +1,26 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://bigband-abteilung7.de/'
+languageCode = 'de-DE'
+title = 'Bigband Abteilung 7'
 theme = 'ananke'
+
+[params]
+  site_logo = "images/logo-bigband.png"
+  description = "Swing, Jazz und Modern Bigband aus der Region Karlsruhe"
+  # Ändere das Farbschema (Tachyons-Klassen nutzen)
+  custom_css = ["ananke/css/custom.css"]
+  # Optional: Standard-Farben von Ananke überschreiben
+  background_color_class = "bg-black"
+  body_classes = "avenir"
+
+[[menu.main]]
+  name = "Konzerte"
+  url = "/konzerte/"
+  weight = 10
+[[menu.main]]
+  name = "Über uns"
+  url = "/ueber-uns/"
+  weight = 20
+
+[params]
+  custom_css = ["ananke/css/custom.css"]
+

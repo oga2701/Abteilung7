@@ -1,0 +1,49 @@
+/* 1. Elegante Fonts von Google laden */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,700&family=Montserrat:wght@300;400&display=swap');
+
+:root {
+    --jazz-gold: #D4AF37;        /* Klassisches Gold */
+    --jazz-black: #121212;       /* Sehr dunkles Anthrazit (weicher als reines Schwarz) */
+    --jazz-white: #f5f5f5;       /* Gebrochenes Weiß für bessere Lesbarkeit */
+}
+
+/* 2. Globaler Hintergrund und Schrift */
+body {
+    background-color: var(--jazz-black) !important;
+    color: var(--jazz-white) !important;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.6;
+}
+
+/* 3. Überschriften im Jazz-Look (Serifen-Font) */
+h1, h2, h3, h4, .f1, .f2, .f3 {
+    font-family: 'Playfair Display', serif !important;
+    color: var(--jazz-gold) !important;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* 4. Navigation anpassen */
+.white-70 { color: var(--jazz-white) !important; }
+.white-70:hover { color: var(--jazz-gold) !important; }
+
+/* 5. Links und Buttons */
+a {
+    color: var(--jazz-gold);
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+/* Spezielle Klasse für "Gold-Text" */
+.gold-accent {
+    color: var(--jazz-gold);
+}
+
+/* 6. Hero-Sektion (Header) abdunkeln für besseren Kontrast */
+.bg-black-60 {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
