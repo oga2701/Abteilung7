@@ -9,8 +9,8 @@
 
 /* 2. Globaler Hintergrund und Schrift */
 body {
-    background-color: var(--jazz-black) !important;
-    color: var(--jazz-white) !important;
+    background-color: var(--jazz-white) !important;
+    color: var(--jazz-black) !important;
     font-family: 'Montserrat', sans-serif;
     line-height: 1.6;
 }

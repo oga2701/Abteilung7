@@ -3,20 +3,39 @@ languageCode = 'de-DE'
 title = 'Bigband Abteilung 7'
 theme = 'ananke'
 
+defaultContentLanguage = "de"
+sectionPagesMenu = "main"
+
+[pagination]
+pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
+
+
 [params]
-  site_logo = "images/logo-bigband.png"
+  site_logo = "images/logo.png"
   description = "Swing, Jazz und Modern Bigband aus der Region Karlsruhe"
-  # Ändere das Farbschema (Tachyons-Klassen nutzen)
-  custom_css = ["ananke/css/custom.css"]
   # Optional: Standard-Farben von Ananke überschreiben
   background_color_class = "bg-black"
   body_classes = "avenir"
+  # choose fitting and alignment styles for the featured image using Tachyons classes such as "cover|contain" for fitting and "bg-top|bg-center|bg-bottom" for alignment, or add any other class space-separated to customize further
+  featured_image_class = "cover bg-top"
+  # choose a color dimming class for the page or site header from any on this page: https://tachyons.io/docs/themes/skins/, preface it with "bg-" and add the value such as "-X0" where X is in [1,9]
+  cover_dimming_class = "bg-black-60"
+  recent_posts_number = 3
+  # Ändere das Farbschema (Tachyons-Klassen nutzen)
+  custom_css = ["ananke/css/custom.css"]
 
-[[menu.main]]
-  name = "Konzerte"
-  url = "/konzerte/"
-  weight = 10
-[[menu.main]]
-  name = "Über uns"
-  url = "/ueber-uns/"
-  weight = 20
+  mainSections = ["konzerte"]
+  author = "Felix Reichert" # default author, override via `author` in a posts front matter
+
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = 'ananke'
