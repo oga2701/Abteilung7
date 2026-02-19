@@ -20,7 +20,3 @@ theme = 'ananke'
   name = "Über uns"
   url = "/ueber-uns/"
   weight = 20
-
-[params]
-  custom_css = ["ananke/css/custom.css"]
-
