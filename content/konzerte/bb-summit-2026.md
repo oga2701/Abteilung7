@@ -4,7 +4,7 @@ description: "Bigband Summit Waldbornn 2026"
 featured_image: "/images/bigband_summit_2026.jpg"
 tags: []
 title: "Bigband Summit Waldbornn 2026"
-weight: 10
+weight: 0
 ---
 
 Zum 4. Mal lädt der Musikverein Etzenrot zum Bigband Summit ins Kurhaus Waldbronn ein.

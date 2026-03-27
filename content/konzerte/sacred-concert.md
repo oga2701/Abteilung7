@@ -4,7 +4,7 @@ description: "Sacred Concert"
 featured_image: "/images/sacred_concert.webp"
 tags: []
 title: "SACRED CONCERT – Konzert für Chor, Big Band und Sopransolo"
-weight: 20
+weight: 0
 ---
 
 Dass der berühmte amerikanische Pianist, Bandleader und Komponist, der Jazzmusiker Duke Ellington im Jahr 1965 ein geistliches Werk, das „Sacred Concert“ schuf, ist recht ungewöhnlich. Er war bis dahin für seinen unvergleichlich modernen Bigband-Stil und seine klangfarbenreichen und eingängigen Arrangements weltweit bekannt. Anlässlich der Fertigstellung und Weihung der Grace Cathedral in San Francisco, erhielt er den Auftrag, ein religiöses Konzert zu veranstalten, welches dann in unterschiedlichen Fassungen auch an anderen Orten zur Aufführung kam.
@@ -24,7 +24,7 @@ Die **Sopranistin Silvia Fazlija** ist als Jazz- und Musical-Sängerin eine herv
 ## Termine
 
 Aufführungs-Termine sind ab 2027 verfügbar.
-Das erste Konzert wird voraussichtlich im Rahmen des Bigband Summit in Waldbronn Mitte März 2027 stattfinden.
+Das erste Konzert wird voraussichtlich im Rahmen des Bigband Summit in Waldbronn am 28.02.2027 stattfinden.
 
 ## Dauer
 
