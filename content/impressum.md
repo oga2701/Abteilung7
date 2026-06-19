@@ -15,7 +15,7 @@ Seestraße 13\
 
 ## Kontakt
 
-E-Mail: oga2701 [at] gmail.com
+E-Mail: info [at] bigband-abteilung7.de
 
 ## Redaktionell verantwortlich
 
@@ -53,7 +53,7 @@ Bigband Abteilung 7\
 Felix Reichert\
 75045 Wössingen
 
-E-Mail-Adresse: oga2701 [at] gmail.com
+E-Mail-Adresse: info [at] bigband-abteilung7.de
 
 Impressum: [https://www.bigband-abteilung7.de/impressum](https://www.bigband-abteilung7.de/impressum)
 
