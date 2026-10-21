@@ -1,5 +1,5 @@
 ---
-date: 2026-10-21T10:58:08-04:00
+date: 2025-10-21T10:58:08-04:00
 description: "Bigband Summit Waldbornn 2027"
 featured_image: "/images/bigband_summit_2027.jpg"
 tags: []
