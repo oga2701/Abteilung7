@@ -1,5 +1,5 @@
 ---
-date: 2017-04-10T11:00:59-04:00
+date: 2026-04-10T11:00:59-04:00
 description: "Sacred Concert"
 featured_image: "/images/sacred_concert.webp"
 tags: []
@@ -23,8 +23,9 @@ Die **Sopranistin Silvia Fazlija** ist als Jazz- und Musical-Sängerin eine herv
 
 ## Termine
 
-Aufführungs-Termine sind ab 2027 verfügbar.
-Das erste Konzert wird voraussichtlich im Rahmen des Bigband Summit in Waldbronn am 28.02.2027 stattfinden.
+Das erste Konzert wird im Rahmen des [Bigband Summit in Waldbronn](./bb-summit-2027.md) am **Sonntag den 28.02.2027 um 11:00 Uhr** stattfinden.
+Am **10.04.2027** wird die zweite Aufführung in der **Jahnhalle Gaggenau** stattfinden. Weiter Informationen folgen.
+Vorerst das letzte Konzert wird am **28.04.2027 in der Stadtkirche Karlsruhe** stattfinden.
 
 ## Dauer
 
